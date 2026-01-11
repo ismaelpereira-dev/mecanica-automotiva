@@ -29,7 +29,7 @@ h1 {
 	font-size: var(--font-64);
 }
 
-span {
+#header__left .h1 span {
 	color: var(--cor-secondary);
 }
 
